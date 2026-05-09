@@ -10,9 +10,9 @@
     "windows":  {
                     "version":  "0.1.5",
                     "build_number":  "15",
-                    "download_url":  "https://github.com/uttercc/dist/releases/download/v0.1.5+15/Utter-windows-0.1.5-15.zip",
-                    "file_size":  14198732,
-                    "release_notes":  "Bug fixes and performance improvements.",
+                    "download_url":  "https://github.com/uttercc/dist/releases/download/v0.1.5+15/utter-windows-0.1.5+15-installer.zip",
+                    "file_size":  11684639,
+                    "release_notes":  "Windows V1 released",
                     "update_required":  true
                 }
 }
