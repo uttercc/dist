@@ -1,18 +1,10 @@
-﻿{
-    "macos":  {
-                  "version":  "0.1.7",
-                  "build_number":  "17",
-                  "download_url":  "https://github.com/uttercc/dist/releases/download/v0.1.7+17/Utter-macos-0.1.7+17.zip",
-                  "file_size":  24101545,
-                  "release_notes":  "Bug fixes and performance improvements.",
-                  "update_required":  false
-              },
-    "windows":  {
-                    "version":  "0.1.7",
-                    "build_number":  "17",
-                    "download_url":  "https://github.com/uttercc/dist/releases/download/v0.1.7+17/utter-windows-0.1.7+17-installer.zip",
-                    "file_size":  11793501,
-                    "release_notes":  "Windows V1 released",
-                    "update_required":  true
-                }
+{
+  "macos": {
+    "version": "0.1.8",
+    "build_number": "18",
+    "download_url": "https://github.com/uttercc/dist/releases/download/v0.1.8+18/Utter-macos-0.1.8+18.zip",
+    "file_size": 24102171,
+    "release_notes": "Bug fixes and performance improvements.",
+    "update_required": true
+  }
 }
