@@ -5,6 +5,6 @@
     "download_url": "https://github.com/uttercc/dist/releases/download/v0.1.9+19/Utter-macos-0.1.9+19.zip",
     "file_size": 24123264,
     "release_notes": "Bug fixes and performance improvements.",
-    "update_required": false
+    "update_required": true
   }
 }
