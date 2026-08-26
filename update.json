@@ -1,9 +1,9 @@
 {
   "macos": {
-    "version": "0.2.4",
-    "build_number": "24",
-    "download_url": "https://github.com/uttercc/dist/releases/download/v0.2.4+24/Utter-macos-0.2.4+24.zip",
-    "file_size": 24323915,
+    "version": "0.2.5",
+    "build_number": "25",
+    "download_url": "https://github.com/uttercc/dist/releases/download/v0.2.5+25/Utter-macos-0.2.5+25.zip",
+    "file_size": 24324299,
     "release_notes": "Bug fixes and performance improvements.",
     "update_required": true
   }
