@@ -4,7 +4,7 @@
     "build_number": "27",
     "download_url": "https://github.com/uttercc/dist/releases/download/v0.2.7+27/Utter-macos-0.2.7+27.zip",
     "file_size": 23966749,
-    "release_notes": "Say "I meant ..." mid-dictation to correct what you just said, with the fix shown live in the overlay. Plus bug fixes and performance improvements.",
+    "release_notes": "Say 'I meant ...' mid-dictation to correct what you just said, with the fix shown live in the overlay. Plus bug fixes and performance improvements.",
     "update_required": true
   }
 }
